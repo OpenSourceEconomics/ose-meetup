@@ -39,7 +39,8 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Felix Schran - Dask Package**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/02_20_2019/02_20_2019_Felix_Schran.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Felix hold a presentation on [Dask](https://dask.org/) a package that provides solutions for handling extremely large datasets in Python based projectsgit.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Felix hold a presentation on [Dask](https://dask.org/) a package that provides solutions for handling extremely large datasets in Python
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;based projects.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian Zimpelmann - Introduction to the mystic package**](https://github.com/ChristianZimpelmann/introduction_mystic)
 
