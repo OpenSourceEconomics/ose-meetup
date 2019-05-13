@@ -8,7 +8,8 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe - Advanced Features of *numba***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will present on advanced features of numba, namely the vectorize and the guvectorize decorator that can helf to write very fast and flexible code.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will present on advanced features of numba, namely the vectorize and the guvectorize decorator that can helf to
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;write very fast and flexible code.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Janos Gabler - The *estimagic* package**
 
