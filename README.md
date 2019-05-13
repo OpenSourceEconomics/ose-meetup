@@ -2,8 +2,21 @@
 
 The OpenSourceEconomics hackathon is a monthly event for interexchange and discussion with other students and academic researchers with a focus on issues regarding scientific programming. The event usually takes place on the third Tuesday of a month at 6pm at the Institute of Applied Microeconomics.
 
+# Upcoming Events
+
 ## May 14th, 2019
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe - Advanced Features of *numba***
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will present on advanced features of numba, namely the vectorize and the guvectorize decorator that can helf to write very fast and flexible code.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Janos Gabler - The *estimagic* package**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos will talk
+about the very first draft and some future plans for the [estimagic package](https://github.com/janosg/estimagic).
+
+
+# Previous Events
 
 ## April 16th, 2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Holger Gerhardt - TeXTemplates**](https://github.com/HolgerGerhardt/TeXTemplates)
@@ -72,7 +85,7 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch - The Rust Model and ruspy**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/12_19_2018/12_19_2018_Maximilian_Blesch_1.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max gave an overview on the Rust Model as well as [*ruspy*](https://github.com/OpenSourceEconomics/ruspy), an open source python package he used for replicating
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max gave an overview on the Rust Model as well as [*ruspy*](https://github.com/OpenSourceEconomics/ruspy), an open source python package he used to replicate
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;results from
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust, J. (1987). [Optimal Replacement of GMC Bus Engines: An empirical model of Harold Zurcher.](https://doi.org/10.2307/1911259) *Econometrica*,
