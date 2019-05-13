@@ -42,7 +42,7 @@ about the very first draft and some future plans for the [estimagic package](htt
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Boryana Ilieva - The *soepy* Package**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/03_20_2019/03_20_2019_Boryana_Ilieva.pdf)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana reported on the  current developments of the soepy package as well as her upcoming research. Please see [here](https://github.com/boryana-ilieva/soepy_presentation)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana reported on the  current developments of the [*soepy*](https://github.com/OpenSourceEconomics/soepy) package as well as her upcoming research. Please see [here](https://github.com/boryana-ilieva/soepy_presentation)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the associated  notebook.
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler - When (not) to use classes**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/03_20_2019/03_20_2019_Janos_Gabler.ipynb)
@@ -58,7 +58,7 @@ about the very first draft and some future plans for the [estimagic package](htt
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian Zimpelmann - Introduction to the *mystic* Package**](https://github.com/ChristianZimpelmann/introduction_mystic)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Christian talked about his experiences with the Mystic package for difficult optimization problems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Christian talked about his experiences with the *mystic* package for difficult optimization problems.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe - Open Source Economics Git Workflow**
 
