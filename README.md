@@ -75,8 +75,8 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max gave an overview on the Rust Model as well as [*ruspy*](https://github.com/OpenSourceEconomics/ruspy), an open source python package he used for replicating
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;results from
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust, J. (1987). [Optimal Replacement of GMC Bus Engines: An empirical model of Harold Zurcher.](https://doi.org/10.2307/1911259)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Econometrica*, Vol. 55, No.5, 999-1033.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust, J. (1987). [Optimal Replacement of GMC Bus Engines: An empirical model of Harold Zurcher.](https://doi.org/10.2307/1911259) *Econometrica*,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vol. 55, No.5, 999-1033.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian Zimpelmann - Beliefs under Ambiguity**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/12_19_2018/12_19_2018_Christian_Zimpelmann.pdf)
