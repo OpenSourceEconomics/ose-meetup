@@ -21,7 +21,7 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 
 ## March 20th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Holger Gerhardt - Biblatex**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Holger Gerhardt - BibLaTeX**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holger talked about the application of [BibLaTeX](https://ctan.org/pkg/biblatex?lang=de) as an adequate solution for implementing references in academic writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;projects.  
@@ -38,6 +38,8 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 ## February 20th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Felix Schran - Dask Package**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/02_20_2019/02_20_2019_Felix_Schran.ipynb)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Felix hold a presentation on [Dask](https://dask.org/) a package that provides solutions for handling extremely large datasets. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian Zimpelmann - Introduction to the mystic package**](https://github.com/ChristianZimpelmann/introduction_mystic)
 
@@ -58,7 +60,7 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Phillipp Eisenhauer - f2py**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Philipp provided an overview of [*f2py*](https://docs.scipy.org/doc/numpy/f2py/), a package that enables us to call Fortran routines from Python. The presentation
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is based on the following [lecture]().
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is based on the following [lecture](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-6A-Fortran-and-C.ipynb).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch - Experiences obtained by newest changes on ruspy**
 
@@ -72,7 +74,8 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max gave an overview on the Rust Model as well as [*ruspy*](https://github.com/OpenSourceEconomics/ruspy), an open source python package he used for replicating
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;results from
 
-> Rust, J. (1987). [Optimal Replacement of GMC Bus Engines: An empirical model of Harold Zurcher.](https://doi.org/10.2307/1911259) *Econometrica*, Vol. 55, No.5, 999-1033.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust, J. (1987). [Optimal Replacement of GMC Bus Engines: An empirical model of Harold Zurcher.](https://doi.org/10.2307/1911259)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Econometrica*, Vol. 55, No.5, 999-1033.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian Zimpelmann - Beliefs under Ambiguity**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/12_19_2018/12_19_2018_Christian_Zimpelmann.pdf)
