@@ -28,7 +28,8 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Boryana Ilieva - The soepy Package**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/03_20_2019/03_20_2019_Boryana_Ilieva.pdf)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana reported on the  current developments of the soepy package as well as her upcoming research. Please see [here](https://github.com/boryana-ilieva/soepy_presentation) for the associated  notebook.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana reported on the  current developments of the soepy package as well as her upcoming research. Please see [here](https://github.com/boryana-ilieva/soepy_presentation)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the associated  notebook.
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler - When (not) to use classes**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/03_20_2019/03_20_2019_Janos_Gabler.ipynb)
 
@@ -44,8 +45,8 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe - Open Source Economics Git workflow**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias briefly showed the new Git workflow that we adopted in the OpenSourceEconomics projects. A detailed overview of
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the workflow will be part of the upcoming OSE code quaility guide.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias briefly showed the new Git workflow that we adopted in the OpenSourceEconomics projects. A detailed overview
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the workflow will be part of the upcoming OSE code quaility guide.
 
 ## January 30th, 2019
 
@@ -61,7 +62,8 @@ The OpenSourceEconomics hackathon is a monthly event for interexchange and discu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch - Experiences obtained by newest changes on ruspy**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max reported on his experiences of implementing [*numba*](http://numba.pydata.org/) for improving the performance of the [*ruspy*](https://github.com/OpenSourceEconomics/ruspy) package. The associated material can be found [here](https://github.com/OpenSourceEconomics/hackathon_material/tree/master/material/01_30_2019).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max reported on his experiences of implementing [*numba*](http://numba.pydata.org/) for improving the performance of the [*ruspy*](https://github.com/OpenSourceEconomics/ruspy) package. The
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;associated material can be found [here](https://github.com/OpenSourceEconomics/hackathon_material/tree/master/material/01_30_2019).
 
 ## December 19th, 2018
 
