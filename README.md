@@ -1,23 +1,46 @@
-# hackathon_material
+# OpenSourceEconomics Hackathon
 
-The OpenSourceEconomics hackathon is a monthly event for interexchange and discussion with other students and academic researchers with a focus on issues regarding scientific programming. The event usually takes place on the third Tuesday of a month at 6pm at the Institute of Applied Microeconomics.
+[OpenSourceEconomics](https://nbviewer.jupyter.org/format/slides/github/OpenSourceEconomics/hackathon_material/blob/master/promotion/OSE_promotion.ipynb#/) is thought of as a platform for discussion with other students and academic researchers on issues regarding scientific programming. Therefore we arrange monthly events, referred to as *hackathons*. This meetings provide participants an opportunity to present and inform themselves on different software solutions or to receive feedback on their current research projects. The event usually takes place on the third Tuesday of a month at 6pm at the Institute of Applied Microeconomics. For further questions, please do not hesitate to [contact us](https://join.slack.com/t/oseconomics/shared_invite/enQtNTg3NjA0ODIwNzM3LWYzZTQ2OWJiMDdhMzdlZDVhZmZkZjZiMDU3YmM3MDBmYWE5OGY3M2UzZDY0YTc4NzM3YzA5ZGMzODUyOTczNDc).
+
+
+
 
 # Upcoming Events
+
+## July 16th, 2019
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knauf - Introduction to Webscraping**
+
+
+## June 19th, 2019
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Klara Röhrl - *Bokeh***
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Klara will present on [Bokeh](https://bokeh.pydata.org/en/latest/), a python library for the construction of interactive plots, dashboards and data applications.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Janos Gabler - Insights from PASC/ The *estimagic* Package Part II**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos will report on his insights from [PASC19](https://pasc19.pasc-conference.org/) as well as on the new developments of the estimagic package.  
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Felix Mauersberger - What he has been working on.**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Felix will provide an overview on his current research projects.
+
+# Previous Events
 
 ## May 14th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe - Advanced Features of *numba***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will present on advanced features of *numba*, namely the vectorize and the guvectorize decorator that can helf to
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias presented on advanced features of *numba*, namely the vectorize and the guvectorize decorator that can help to
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;write very fast and flexible code.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Janos Gabler - The *estimagic* Package**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler - The *estimagic* Package Part I**](https://github.com/OpenSourceEconomics/hackathon_material/tree/master/material/2019_05_14/estimagic_presentation)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos will talk
-about the very first draft and some future plans for the [estimagic package](https://github.com/janosg/estimagic).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos talked
+about the very first draft and some future plans for the [*estimagic* package](https://github.com/janosg/estimagic).
 
-
-# Previous Events
 
 ## April 16th, 2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Holger Gerhardt - *TeXTemplates***](https://github.com/HolgerGerhardt/TeXTemplates)
@@ -28,7 +51,7 @@ about the very first draft and some future plans for the [estimagic package](htt
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Philipp presented his newly designed [model class](https://github.com/OpenSourceEconomics/ose_utils) that will be used in the major OpenSourceEconomics packages.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Benedikt Kauf - Testing Frameworks**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/04_16_2019/04_20_2019_Benedikt_Kauf.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Benedikt Kauf - Testing Frameworks**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/2019_04_16/2019_04_16_Benedikt_Kauf.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benedikt talked about different options for implementing an appropriate testing framework in python based projects.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particularly his presentation focused on the *pytest*, the *engard* as well as the *hypothesis* package.
@@ -40,18 +63,18 @@ about the very first draft and some future plans for the [estimagic package](htt
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holger talked about the application of [*BibLaTeX*](https://ctan.org/pkg/biblatex?lang=de) as an adequate solution for implementing references in academic writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;projects.  
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Boryana Ilieva - The *soepy* Package**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/03_20_2019/03_20_2019_Boryana_Ilieva.pdf)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Boryana Ilieva - The *soepy* Package**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/2019_03_20/2019_03_20_Boryana_Ilieva.pdf)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana reported on the  current developments of the [*soepy*](https://github.com/OpenSourceEconomics/soepy) package as well as her upcoming research. Please see [here](https://github.com/boryana-ilieva/soepy_presentation)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the associated  notebook.
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler - When (not) to use classes**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/03_20_2019/03_20_2019_Janos_Gabler.ipynb)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler - When (not) to use classes**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/2019_03_20/2019_03_20_Janos_Gabler.ipynb)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos outlined the advantages and disadvantages of classes in your python based projects.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos outlined the advantages and disadvantages of using classes in your python based projects.
 
 ## February 20th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Felix Schran - The *dask* Package**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/02_20_2019/02_20_2019_Felix_Schran.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Felix Schran - The *dask* Package**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/2019_02_20/2019_02_20_Felix_Schran.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Felix hold a presentation on [*dask*](https://dask.org/) a package that provides solutions for handling extremely large datasets in Python
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;based projects.
@@ -67,7 +90,7 @@ about the very first draft and some future plans for the [estimagic package](htt
 
 ## January 30th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Sebastian Seitz (University of Mannheim)- A Structural Model of Disability Insurance**]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sebastian Seitz (University of Mannheim)- A Structural Model of Disability Insurance**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sebastian presented a structural model of disability insurance and the Fortran code he used to solve and estimate the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;model.
@@ -80,11 +103,11 @@ about the very first draft and some future plans for the [estimagic package](htt
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch - Experiences obtained by newest changes on *ruspy***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max reported on his experiences of implementing [*numba*](http://numba.pydata.org/) for improving the performance of the [*ruspy*](https://github.com/OpenSourceEconomics/ruspy) package. The
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;associated material can be found [here](https://github.com/OpenSourceEconomics/hackathon_material/tree/master/material/01_30_2019).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;associated material can be found [here](https://github.com/OpenSourceEconomics/hackathon_material/tree/master/material/2019_01_30).
 
 ## December 19th, 2018
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch - The Rust Model and *ruspy***](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/12_19_2018/12_19_2018_Maximilian_Blesch_1.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch - The Rust Model and *ruspy***](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/2018_12_19/2018_12_19_Maximilian_Blesch_1.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max gave an overview on the Rust Model as well as [*ruspy*](https://github.com/OpenSourceEconomics/ruspy), an open source python package he used to replicate
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;results from
@@ -93,7 +116,7 @@ about the very first draft and some future plans for the [estimagic package](htt
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vol. 55, No.5, 999-1033.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian Zimpelmann - Beliefs under Ambiguity**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/12_19_2018/12_19_2018_Christian_Zimpelmann.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian Zimpelmann - Beliefs under Ambiguity**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/2018_12_19/2018_12_19_Christian_Zimpelmann.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Christian held a presentation on the current state of his research project on *beliefs under ambiguity*.
 
