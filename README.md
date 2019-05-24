@@ -1,6 +1,6 @@
 # OpenSourceEconomics Hackathon
 
-[OpenSourceEconomics](https://nbviewer.jupyter.org/format/slides/github/OpenSourceEconomics/hackathon_material/blob/master/promotion/OSE_promotion.ipynb#/) is thought of as a platform for discussion with other students and academic researchers on issues regarding scientific programming. Therefore we arrange monthly events, referred to as *hackathons*. This meetings provide participants an opportunity to present and inform themselves on different software solutions or to receive feedback on their current research projects. The event usually takes place on the third Tuesday of a month at 6pm at the Institute of Applied Microeconomics. For further questions, please do not hesitate to [contact us](https://join.slack.com/t/oseconomics/shared_invite/enQtNTg3NjA0ODIwNzM3LWYzZTQ2OWJiMDdhMzdlZDVhZmZkZjZiMDU3YmM3MDBmYWE5OGY3M2UzZDY0YTc4NzM3YzA5ZGMzODUyOTczNDc).
+[OpenSourceEconomics](https://nbviewer.jupyter.org/format/slides/github/OpenSourceEconomics/hackathon_material/blob/master/promotion/OSE_promotion.ipynb#/) is thought of as a platform for discussion between students and academic researchers on issues regarding scientific programming. To this end, we arrange monthly events, referred to as *hackathons*. These meetings provide participants an opportunity to present on and inform themselves about different software solutions, as well as to receive feedback on their current research projects. The events usually take place on the third Tuesday of every month at 6pm at the Institute of Applied Microeconomics. For further questions, please do not hesitate to [contact us](https://join.slack.com/t/oseconomics/shared_invite/enQtNTg3NjA0ODIwNzM3LWYzZTQ2OWJiMDdhMzdlZDVhZmZkZjZiMDU3YmM3MDBmYWE5OGY3M2UzZDY0YTc4NzM3YzA5ZGMzODUyOTczNDc).
 
 
 
@@ -9,7 +9,7 @@
 
 ## July 16th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knauf - Introduction to Webscraping**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
 
 
 ## June 19th, 2019
@@ -20,7 +20,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Janos Gabler - Insights from PASC/ The *estimagic* Package Part II**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos will report on his insights from [PASC19](https://pasc19.pasc-conference.org/) as well as on the new developments of the estimagic package.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos will report on his insights from [PASC19](https://pasc19.pasc-conference.org/) as well as on the new developments of the [*estimagic* package](https://github.com/janosg/estimagic).  
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Felix Mauersberger - What he has been working on.**
