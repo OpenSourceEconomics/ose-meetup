@@ -90,7 +90,7 @@ about the very first draft and some future plans for the [*estimagic* package](h
 
 ## January 30th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sebastian Seitz (University of Mannheim)- [A Structural Model of Disability Insurance](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/2019_01_30/2019_01_30_Sebastian_Seitz.pdf)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Sebastian Seitz (University of Mannheim)- A Structural Model of Disability Insurance**](https://github.com/OpenSourceEconomics/hackathon_material/blob/master/material/2019_01_30/2019_01_30_Sebastian_Seitz.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sebastian presented a structural model of disability insurance and the Fortran code he used to solve and estimate the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;model.
