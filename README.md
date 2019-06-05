@@ -9,7 +9,7 @@
 
 ## July 16th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knauf - Introduction to Webscraping**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
 
 
 ## June 19th, 2019
