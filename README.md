@@ -10,6 +10,7 @@
 ## July 16th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan will give us a general introduction to webscraping with [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). 
 
 
