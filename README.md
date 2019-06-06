@@ -10,11 +10,12 @@
 ## July 16th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan will give us a general introduction to webscraping with [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel *chaospy***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel - *chaospy***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will provide us an overview of [*chaospy*](https://chaospy.readthedocs.io/en/development/index.html), numerical tool for performing uncertainty quantification using &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;polynomial chaos expansions and Monte Carlo methods in Python.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will provide us an overview of [*chaospy*](https://chaospy.readthedocs.io/en/development/index.html), a numerical tool for performing uncertainty quantification using &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;polynomial chaos expansions and Monte Carlo methods in Python.
 
 
 ## June 19th, 2019
