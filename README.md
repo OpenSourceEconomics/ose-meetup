@@ -12,6 +12,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel *chaospy***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will provide us an overview of [*chaospy*](https://chaospy.readthedocs.io/en/development/index.html), numerical tool for performing uncertainty quantification using polynomial chaos expansions and Monte Carlo methods in Python.
+
+
 ## June 19th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Klara Röhrl - *Bokeh***
