@@ -7,34 +7,46 @@
 
 # Upcoming Events
 
-## July 16th, 2019
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan will give us a introduction to webscraping with [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). 
-
+## August 16th, 2019_05_14
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel - *chaospy***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will provide us an overview of [*chaospy*](https://chaospy.readthedocs.io/en/development/index.html), a numerical tool for performing uncertainty quantification using &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;polynomial chaos expansions and Monte Carlo methods in Python.
 
 
+## July 23th, 2019
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan will give us a introduction to webscraping with [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* 2.0/Application of *estimagic***
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tobias and Janos will report on newest development process of the [*respy*](https://respy.readthedocs.io/en/latest/) package with a focus on the application of the [*estimagic*](https://estimagic.readthedocs.io/en/master/?badge=master) package.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - SHH Tutorial**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Chris Caroll *HARK***
+
+
+# Previous Events
+
 ## June 19th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Klara Röhrl - *Bokeh***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Klara will present on [*Bokeh*](https://bokeh.pydata.org/en/latest/), a python library for the construction of interactive plots, dashboards and data applications.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Klara presented on [*Bokeh*](https://bokeh.pydata.org/en/latest/), a python library for the construction of interactive plots, dashboards and data applications.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Janos Gabler - Insights from PASC/The *estimagic* Package Part II**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos will report on his insights from [PASC19](https://pasc19.pasc-conference.org/) as well as on the new developments of the [*estimagic* package](https://github.com/janosg/estimagic).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos reported on his insights from [PASC19](https://pasc19.pasc-conference.org/) as well as on the new developments of the [*estimagic* package](https://github.com/janosg/estimagic).  
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Felix Mauersberger - What he has been working on.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Felix will provide an overview on his current research projects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Felix provided an overview on his current research projects.
 
-# Previous Events
 
 ## May 14th, 2019
 
