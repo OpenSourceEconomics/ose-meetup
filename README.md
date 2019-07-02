@@ -23,7 +23,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* 2.0/Application of *estimagic***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tobias and Janos will report on newest development process of the [*respy*](https://respy.readthedocs.io/en/latest/) package with a focus on the application of the [*estimagic*](https://estimagic.readthedocs.io/en/master/?badge=master) package.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos will report on newest development process of the [*respy*](https://respy.readthedocs.io/en/latest/) package with a focus on the application of the
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*estimagic*](https://estimagic.readthedocs.io/en/master/?badge=master) package.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - SHH Tutorial**
 
