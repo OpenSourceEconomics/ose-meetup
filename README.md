@@ -31,7 +31,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*estimagic*](https://estimagic.readthedocs.io/en/master/?badge=master) package.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christopher D. Carroll *econ-ARK***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christopher D. Carroll - *econ-ARK***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris will present on [*econ-ARK*](https://econ-ark.org/), an open-source toolkits for researchers trying to understand how economic and 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;social outcomes result from the actions of heterogeneous individuals (via Skype).
