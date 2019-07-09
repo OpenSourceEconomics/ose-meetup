@@ -50,7 +50,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos reported on his insights from [PASC19](https://pasc19.pasc-conference.org/) as well as on the new developments of the [*estimagic* package](https://github.com/janosg/estimagic).  
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Felix Mauersberger - What he has been working on.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Felix Mauersberger - What he has been working on.**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_06_19/2019_06_19_Felix_Mauersberger.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Felix provided an overview on his current research projects.
 
