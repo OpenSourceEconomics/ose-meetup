@@ -13,8 +13,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will provide us an overview of [*chaospy*](https://chaospy.readthedocs.io/en/development/index.html), a numerical tool for performing uncertainty quantification using &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;polynomial chaos expansions and Monte Carlo methods in Python.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - SHH Tutorial**
 
-## July 23th, 2019
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+## July 24th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
 
@@ -26,9 +30,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos will report on newest development process of the [*respy*](https://respy.readthedocs.io/en/latest/) package with a focus on the application of the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*estimagic*](https://estimagic.readthedocs.io/en/master/?badge=master) package.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - SHH Tutorial**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Chris Caroll *HARK***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christopher D. Carroll *econ-ARK***
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris will present on the [*econ-ARK*](https://econ-ark.org/) initiative (via Skype).
 
 
 # Previous Events
