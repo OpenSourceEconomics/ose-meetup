@@ -41,11 +41,11 @@
 
 ## June 19th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Klara Röhrl - *Bokeh***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Klara Röhrl - *Bokeh***](https://github.com/OpenSourceEconomics/hackathon/tree/master/material/2019_06_19/bokeh_presentation)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Klara presented on [*Bokeh*](https://bokeh.pydata.org/en/latest/), a python library for the construction of interactive plots, dashboards and data applications.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Janos Gabler - Insights from PASC/The *estimagic* Package Part II**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler - Insights from PASC/The *estimagic* Package Part II**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_06_19/pasc_insights_presentation.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Janos reported on his insights from [PASC19](https://pasc19.pasc-conference.org/) as well as on the new developments of the [*estimagic* package](https://github.com/janosg/estimagic).  
 
