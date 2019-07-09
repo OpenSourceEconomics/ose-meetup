@@ -33,7 +33,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christopher D. Carroll *econ-ARK***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris will present on the [*econ-ARK*](https://econ-ark.org/) initiative (via Skype).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris will present on the [*econ-ARK*](https://econ-ark.org/), an open-source toolkits for researchers trying to understand how economic and 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;social outcomes result from the actions of heterogeneous individuals (via Skype).
 
 
 # Previous Events
