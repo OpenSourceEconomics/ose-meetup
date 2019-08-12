@@ -7,13 +7,13 @@
 
 # Upcoming Events
 
-## August 16th, 2019_05_14
+## August/September ???, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel - *chaospy***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias will provide us an overview of [*chaospy*](https://chaospy.readthedocs.io/en/development/index.html), a numerical tool for performing uncertainty quantification using &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;polynomial chaos expansions and Monte Carlo methods in Python.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - SHH Tutorial**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - ssh tips & tricks**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
