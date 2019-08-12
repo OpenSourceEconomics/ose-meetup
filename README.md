@@ -34,8 +34,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christopher D. Carroll - *econ-ARK***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris presented on [*econ-ARK*](https://econ-ark.org/), an open-source toolkits for researchers trying to understand how economic and 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;social outcomes result from the actions of heterogeneous individuals (via Skype).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris presented on [*econ-ARK*](https://econ-ark.org/), an open-source toolkits for researchers trying to understand how economic and social 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outcomes result from the actions of heterogeneous individuals (via Skype).
 
 
 ## June 19th, 2019
