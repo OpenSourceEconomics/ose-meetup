@@ -17,27 +17,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+# Previous Events
 
 ## July 24th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan will give us a introduction to webscraping with [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan gave us a introduction to webscraping with [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* 2.0/Application of *estimagic***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos will report on newest development process of the [*respy*](https://respy.readthedocs.io/en/latest/) package with a focus on the application of the
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos reported on newest development process of the [*respy*](https://respy.readthedocs.io/en/latest/) package with a focus on the application of the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*estimagic*](https://estimagic.readthedocs.io/en/master/?badge=master) package.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christopher D. Carroll - *econ-ARK***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris will present on [*econ-ARK*](https://econ-ark.org/), an open-source toolkits for researchers trying to understand how economic and 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris presented on [*econ-ARK*](https://econ-ark.org/), an open-source toolkits for researchers trying to understand how economic and 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;social outcomes result from the actions of heterogeneous individuals (via Skype).
 
-
-# Previous Events
 
 ## June 19th, 2019
 
