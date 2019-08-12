@@ -7,7 +7,7 @@
 
 # Upcoming Events
 
-## August 16th, 2019_05_14
+## August 16th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel - *chaospy***
 
