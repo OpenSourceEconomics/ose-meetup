@@ -7,10 +7,6 @@
 
 # Upcoming Events
 
-## September ?, 2019
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel - *chaospy***
-
 ## August 20th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - SHH Tutorial**
