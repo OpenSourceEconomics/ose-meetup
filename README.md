@@ -9,7 +9,7 @@
 
 ## August 20th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - SHH Tutorial**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - SHH tips and tricks**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Bergerhoff - tba**
 
