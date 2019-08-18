@@ -13,8 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Bergerhoff - tba**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rafael Suchy - Numerical Integration**
-
 # Previous Events
 
 ## July 24th, 2019
