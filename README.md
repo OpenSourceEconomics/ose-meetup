@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - ssh Tips & Tricks**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Bergerhoff - tba**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Bergerhoff - Assessing Academic Achievement - An overview of current CASE projects**
 
 # Previous Events
 
