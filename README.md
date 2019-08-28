@@ -7,15 +7,20 @@
 
 # Upcoming Events
 
+## September 12th, 2019
+
+
+# Previous Events
+
+
 ## August 20th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - ssh Tips & Tricks**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Bergerhoff - Assessing Academic Achievement - An overview of current CASE projects**
 
-# Previous Events
-
 ## July 24th, 2019
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
 
