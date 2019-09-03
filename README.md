@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fedor Iskhakov - JOSEcon**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fedor will introduce as to the emerging [*Journal of Open Source Economics*](http://josecon.org/)) which will publish short papers on 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fedor will introduce us to the emerging [*Journal of Open Source Economics*](http://josecon.org/) which will publish short papers on 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reusable code and allow computational economics collect citations on their coding work
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* and *estimagic***
