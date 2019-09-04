@@ -16,6 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* and *estimagic***
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Boryana Ilieva - Female labor supply and biased beliefs: Implementing DC-EGM in a structural life-cycle model.**
+
 # Previous Events
 
 
