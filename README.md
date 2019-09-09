@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Boryana Ilieva - Implementing DC-EGM in a structural life-cycle model.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana will present on the new developments of [*soepy*](https://github.com/OpenSourceEconomics/soepy) in with focus on the integration DC-EGM.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana will present on the new developments of the [*soepy*](https://github.com/OpenSourceEconomics/soepy) package with focus on the integration DC-EGM.
 
 # Previous Events
 
