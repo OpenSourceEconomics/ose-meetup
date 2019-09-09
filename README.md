@@ -23,7 +23,7 @@
 
 ## August 20th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hans-Martin von Gaudecker - ssh Tips & Tricks**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Hans-Martin von Gaudecker - ssh Tips & Tricks**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_08_20/17_shell_remote.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Bergerhoff - Assessing Academic Achievement - An overview of current CASE projects**
 
