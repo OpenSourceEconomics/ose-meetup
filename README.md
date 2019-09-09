@@ -17,7 +17,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* and *estimagic***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Boryana Ilieva - Implementing DC-EGM in a structural life-cycle model.**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana will present on the new developments of [*soepy*](https://github.com/OpenSourceEconomics/soepy) in with focus on the integration DC-EGM.
+
 # Previous Events
 
 
