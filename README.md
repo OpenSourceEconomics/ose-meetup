@@ -16,8 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* and *estimagic***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Boryana Ilieva - Female labor supply and biased beliefs: Implementing DC-EGM in a structural life-cycle model.**
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Boryana Ilieva - Implementing DC-EGM in a structural life-cycle model.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana will present on the new developments of [*soepy*](https://github.com/OpenSourceEconomics/soepy) in with focus on the integration DC-EGM.
 # Previous Events
 
 
@@ -30,7 +30,7 @@
 ## July 24th, 2019
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Knuf - Introduction to Webscraping**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Jan Knuf - Introduction to Webscraping**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_07_24/intro_webscraping.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan gave us a introduction to webscraping with [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
