@@ -7,21 +7,23 @@
 
 # Upcoming Events
 
+## October 4h, 2019
+
+
+# Previous Events
+
 ## September 12th, 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fedor Iskhakov - JOSEcon**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fedor will introduce us to the emerging [*Journal of Open Source Economics*](http://josecon.org/) which will publish short papers on 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fedor introduced us to the emerging [*Journal of Open Source Economics*](http://josecon.org/) which will publish short papers on 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reusable code and allow computational economists to collect citations for their coding work.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* and *estimagic***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Boryana Ilieva - Implementing DC-EGM in a structural life-cycle model.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana will present on the new developments of the [*soepy*](https://github.com/OpenSourceEconomics/soepy) package with focus on the integration of DC-EGM.
-
-# Previous Events
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana presented on the new developments of the [*soepy*](https://github.com/OpenSourceEconomics/soepy) package with focus on the integration of DC-EGM.
 
 ## August 20th, 2019
 
