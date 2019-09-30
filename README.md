@@ -28,7 +28,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos presented on the new developments of the [*estimagic*](https://github.com/OpenSourceEconomics/estimagic) package and its integration in respy.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Boryana Ilieva - Implementing DC-EGM in a structural life-cycle model.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Boryana Ilieva - Implementing DC-EGM in a structural life-cycle model.**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_09_12/dc-egm_boryana.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana presented on the new developments of the [*soepy*](https://github.com/OpenSourceEconomics/soepy) package with focus on the integration of DC-EGM.
 
