@@ -8,6 +8,11 @@
 # Upcoming Events
 
 ## October 4h, 2019
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch - Applications of numerical integration methods to high-dimensional econometric parameter estimation**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**tba**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**tba**
 
 
 # Previous Events
@@ -19,7 +24,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fedor introduced us to the emerging [*Journal of Open Source Economics*](http://josecon.org/) which will publish short papers on 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reusable code and allow computational economists to collect citations for their coding work.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Raabe & Janos Gabler - *respy* and *estimagic***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Raabe & Janos Gabler - *respy* and *estimagic***](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_09_12/estimagic_presentation/estimagic_presentation.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos presented on the new developments of the [*estimagic*](https://github.com/OpenSourceEconomics/estimagic) package and its integration in respy.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Boryana Ilieva - Implementing DC-EGM in a structural life-cycle model.**
 
