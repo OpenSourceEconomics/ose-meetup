@@ -36,7 +36,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Hans-Martin von Gaudecker - ssh Tips & Tricks**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_08_20/17_shell_remote.pdf)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hans-Martin shared tips about the remote work flow with ssh.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan Bergerhoff - Assessing Academic Achievement - An overview of current CASE projects**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan talked about some projects his start-up is working on.
+
 
 ## July 24th, 2019
 
@@ -52,7 +57,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*estimagic*](https://estimagic.readthedocs.io/en/master/?badge=master) package.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christopher D. Carroll - *econ-ARK***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christopher D. Carroll - *econ-ARK***]((https://econ-ark.org/))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris presented on [*econ-ARK*](https://econ-ark.org/), an open-source toolkits for researchers trying to understand how economic and social 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outcomes result from the actions of heterogeneous individuals (via Skype).
