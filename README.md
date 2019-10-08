@@ -7,12 +7,12 @@
 
 # Upcoming Events
 
-## October 4h, 2019
+## October 4th, 2019
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sebastian Gsell - grmpy-semipar: A Local Instrumental Variables (LIV) approach to estimating the generalized Roy model**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch - Applications of numerical integration methods to high-dimensional econometric parameter estimation**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**tba**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**tba**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Radost Holler &  Paul Schäfer - tba**
 
 
 # Previous Events
