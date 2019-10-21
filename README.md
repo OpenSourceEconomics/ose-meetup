@@ -6,16 +6,25 @@
 
 
 # Upcoming Events
+## November 18th, 2019
 
-## October 14th, 2019
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sebastian Gsell - grmpy-semipar: A Local Instrumental Variables (LIV) approach to estimating the generalized Roy model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch - Applications of numerical integration methods to high-dimensional econometric parameter estimation**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Radost Holler &  Paul Schäfer - tba**
 
 
 # Previous Events
+## October 14th, 2019
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Sebastian Gsell - grmpy-semipar: A Local Instrumental Variables (LIV) approach to estimating the generalized Roy model**]((https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_10_14/Sebastian_Gsell/hackathon_presentation_final.pdf))
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sebastian introduced us to his extension of the [grmpy package](https://grmpy.readthedocs.io/en/latest/).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch - Applications of numerical integration methods to high-dimensional econometric parameter estimation**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandros reported on his research about numerical integration.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Radost Holler &  Paul Schäfer - Working with and Digitizing Geospatial Data**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Radost and Paul talked about their recent research project in which they need to digitize various geospatial data.
+
 
 ## September 12th, 2019
 
