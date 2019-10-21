@@ -13,7 +13,7 @@
 
 # Previous Events
 ## October 14th, 2019
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sebastian Gsell -**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fedor Iskhakov - JOSEcon**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**grmpy-semipar: A Local Instrumental Variables (LIV) approach to estimating the generalized Roy model**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_10_14/Sebastian_Gsell/hackathon_presentation_final.pdf)
 
