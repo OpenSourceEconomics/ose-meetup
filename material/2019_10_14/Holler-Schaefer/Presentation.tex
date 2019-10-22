@@ -1,0 +1,283 @@
+
+
+\newcommand{\balA}[1][1]{BAL$^\mathup{I}_{#1:#1}$\xspace}
+\newcommand{\unbalA}[1][n]{UNBAL$^\mathup{I}_{1:#1}$\xspace}
+\newcommand{\balB}[1][1]{BAL$^\mathup{II}_{#1:#1}$\xspace}
+\newcommand{\unbalB}[1][n]{UNBAL$^\mathup{II}_{#1:1}$\xspace}
+
+%% Add separator slide to the beginning of each section ==>
+\AtBeginSection[]{
+	\begin{frame}[standout, c]{~}
+		%\vfill
+		\usebeamerfont{title}%
+		\textcolor{SpotColor}{\insertsectionhead}
+		%\vfill
+	\end{frame}%
+}
+
+%% Alternativelyy, add ``Outline'' slide to the beginning of each section ==>
+%\AtBeginSection[]{
+%	\begin{frame}[plain]{Outline}
+%		\tableofcontents[currentsection]
+%	\end{frame}
+%}
+%% <==
+
+\title{Working with and digitizing geospatial data}
+
+%\subtitle{I~Prefer to Avoid Subtitles}
+
+\author[Holler and Schäfer]{%
+	Radost Holler\inst{a} \and
+	Paul Schäfer\inst{a}
+} % Author(s)
+
+\institute{%
+	\\
+	\inst{a}\,Bonn Graduate School of Economics
+} % Institution(s)
+
+\date{%
+	\\
+	Hackathon, Open Source Economics \\[\medskipamount]
+	\textmd{\today}%
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%
+%%  TITLE SLIDE  %%
+%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[standout]{~}
+	
+	\titlepage%
+	
+\end{frame}
+
+
+\begin{frame}[standout]{Outline}
+	
+	\medskip
+	\tableofcontents
+	
+\end{frame}
+
+
+
+
+%%%%%%%%%%%%%%%%%
+%%  MAIN PART  %%
+%%%%%%%%%%%%%%%%%
+
+
+\section{What is GIS?}
+
+
+\begin{frame}{What is GIS?}
+	\hspace{2pt}
+\begin{quote}
+	Geographic Information Systems (GIS) is a computer-based tool that analyzes, stores, manipulates and visualizes geographic information, usually in a map.
+\end{quote}
+
+	\hspace{6pt}
+	
+
+	
+... i.e. if you use any computer program to work with spatial data, you use GIS.
+	
+\end{frame}
+
+
+\begin{frame}{What programs?}
+	\alert{Full blown GIS software}:
+	\begin{itemize}
+		\item ArcGIS (costly, but can be obtained freely as student of Uni Bonn) 
+		\item QGIS (open source)
+	\end{itemize}
+	
+	Both programs have a python plugin, so they can, \alert{in general}, be combined with python. \\
+	\hspace{2pt}
+	\pause
+	
+	\alert{Of course you can use python, R and Stata as well...} \\
+	\hspace{2pt}
+	
+	\begin{itemize}
+		\item Python: There is a ``pandas'' derivative for geo-data: \alert{geopandas}: \url{http://geopandas.org/}
+		\item R: the sp package enables loading spatial data
+	\end{itemize}
+	
+\end{frame}
+
+\section{Data Structure}
+\begin{frame}{Data Structure}
+	\hspace{2pt}
+\begin{itemize}
+	\item vector data
+	\begin{itemize}
+		\item geometry: points, polylines, polygons
+		\item attribute table
+		\item shapefile, spatial lite
+	\end{itemize}
+	\item raster data
+	% A raster divides the world into a grid of equally sized rectangles (referred to as cells or, in the context of satellite remote sensing, pixels)
+	\begin{itemize}
+		\item cells or pixels
+	\end{itemize}
+	\item coordinate reference systems
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Geometry}
+	\hspace{4pt}
+	\begin{quote}
+		The geometry of vector data consists of sets of coordinate pairs (x, y)
+	\end{quote} 
+% Prepare example for each geometry
+	\hspace{4pt} \\
+	The exact structure depends on the type of the geometry:
+	\begin{itemize}
+		\item Points: (x,y)-coordinates
+		\item Polyines: ordered sets of coordinates (nodes)
+		\item Polygon: a set of closed polylines -- last coordinate pair coincides with the first pair
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Coordinate Reference System}
+	Coordinates are only meaningful given a coordinate reference system...
+	\begin{itemize}
+		\item Where on the world is the origin?
+		\item What is the unit of measurement (latitude/longitude, meters, kms, feet)?
+	\end{itemize}
+% Earth is an irregular spheroid.
+\end{frame}
+
+\begin{frame}{Angular Coordinates}
+\begin{itemize}
+	\item angles: latitude, longitude
+	\item visualization: 
+	\url{https://www.rspatial.org/raster/spatial/6-crs.html#angular-coordinates}
+	\item need to estimate the angles by using a model of the world, models are called \alert{datums}
+	\item most common datum: WGS84 
+\end{itemize}
+% show what happens if you use a different projection
+\end{frame}
+
+\begin{frame}{Projections}
+	\hspace{4pt}
+	\begin{itemize}
+		\item Another way of defining coordinates is by first projecting the earth on a two dimensional planar.
+		\item This is always necessary to display the data.
+		\item there multiple ways of projecting, which one to use depends on where on the world you are, and what you would like to highlight.
+	\end{itemize}
+
+\pause
+\alert{i.e. information contained in geospatial data: coordinates and a reference datum and most of the times a projection}
+\end{frame}
+
+\section{Using ArcGis' python package}
+
+\begin{frame}{Using ArcGis' python package}
+	\begin{itemize}
+		\item ArcGis contains a built in python package called ``arcpy``
+		\item this is not open source !!!
+		\item and is only compatible with python 2.7
+		\item the documentation is horrible, but it is sometimes better then the pointing and the clicking	
+	\end{itemize}
+% show fishnet example
+\end{frame}
+
+\section{Digitizing Maps}
+
+\begin{frame}{Process of Digitizing}
+	\alert{The process of digitizing geospatial data, i.e. maps:}
+	\begin{enumerate}
+		\item Scan your map (more difficult than you'd think)
+		\item Georeference your map
+		\item Vectorize the data from your map.
+	\end{enumerate}
+\end{frame}
+
+\begin{frame}{Georeferencing}
+	\alert{The art of mapping pixel coordinates to geographic coordinates.} 
+	
+	\hspace{4pt}
+	What do I need for georeferencing?
+	
+	\begin{itemize}
+		\item a good non-skewed scan of the map
+		\item a good guess of the projection of my scanned map
+		\item a digital reference map
+	\end{itemize}
+% Show an example: Set 3 points, talk about transformation
+\end{frame}
+
+\section{Digitizing Choropleth Maps}
+\begin{frame}{Overview}
+	\begin{enumerate}
+		\item Preparations
+		\item Map Colors to Data Values (Machine Learning)
+		\item Aggregate to Polygon Level
+		\item Manual Post Processing
+	\end{enumerate}
+\end{frame}
+
+\begin{frame}{Software Choice}
+	\begin{itemize}
+		\item ArcGis:
+		\begin{itemize}
+			\item Proprietary
+			\item Black Box algorithms
+			\item Expensive
+			\item Many Bugs, Very Annoying, Terrible Interface
+		\end{itemize}
+		\item However:
+		\begin{itemize}
+			\item Gets sufficiently good results with limited technical knowledge
+			\item Problems are not generalisable enough to avoid doing manual steps
+			\item Best / Second Best available software to do necessary manual steps
+			\item Alternatives: QGIS, Define Training Sample in ArcGis and Estimate Model in Python, Google Earth Engine
+		\end{itemize}
+	\end{itemize}
+	
+\end{frame}
+
+\begin{frame}{Preparations: The Raw Data}
+	\begin{itemize}
+		\item Raw data often comes as pieces of a scanned map \textrightarrow show
+		\item We need to put the pieces together and link to geographic coordinates
+		\item Geo-reference first then us the mosaic tool to join the pieces
+		\item \url{https://pro.arcgis.com/de/pro-app/tool-reference/data-management/mosaic.htm}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Machine Learning: Training Data}
+	\begin{enumerate}
+		\item Enable the spatial analyst extension and the image classification toolbar (Customize \textrightarrow Toolbars / Extensions).
+		\item Select the Draw Polygon tool from the image classification toolbar and draw a polygon around all areas which belong to one class
+		\item Open the training sample manager. Mark all of the rows you just created (not ones you created earlier) and click on the merge training sample button. Give the class an expressive name.
+		\item Repeat for all classes and specific non-data elements
+		\item Save the training data-set, by clicking on the save icon in the training data manager.
+		\item Create a .csv file with mappings from class names to integers
+	\end{enumerate}
+\end{frame}
+
+\begin{frame}{Machine Learning: Estimation}
+	\begin{enumerate}
+		\item Click on the create signature file in the training sample manager and save the signature file under an expressive name.
+		\item Go to the classification toolbar and click on classification, maximum likelihood classification. Leave all options at the standard choice and enter the file names.
+		\item Run and Pray!
+	\end{enumerate}
+\end{frame}
+
+\begin{frame}{Aggregation}
+	\begin{enumerate}
+		\item Use the set Null tool to set the classes which are not data to the nodata value.
+		\item Use the zonal statistics as table tool to calculate the mode (majority) of your classified values for each admin area.
+		\item Right click on the attribute table of your shape file, select join and join it to the newly created attribute table.
+		\item Export the new shapefile (\url{http://desktop.arcgis.com/en/arcmap/10.3/manage-data/feature-classes/creating-feature-classes-creating-a-new-feature-cl.htm}), be care full to select shapefile in the pull down menu of the save dialog.
+	\end{enumerate}
+\end{frame} 
+

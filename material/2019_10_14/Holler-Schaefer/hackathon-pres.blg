@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[1] Config.pm:307> INFO - Logfile is 'hackathon-pres.blg'
+[79] biber-MSWIN64:315> INFO - === 
+[124] Biber.pm:371> INFO - Reading 'hackathon-pres.bcf'
+[259] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[271] Utils.pm:193> WARN - The file 'hackathon-pres.bcf' does not contain any citations!
+[280] bbl.pm:636> INFO - Writing 'hackathon-pres.bbl' with encoding 'UTF-8'
+[281] bbl.pm:739> INFO - Output to hackathon-pres.bbl
+[281] Biber.pm:110> INFO - WARNINGS: 1
