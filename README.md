@@ -7,6 +7,17 @@
 
 # Upcoming Events
 ## November 18th, 2019
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch - debugging with pdb**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tim_Mensinger - Causal Trees**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel - Uncertainty Quantification in Economics**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
