@@ -7,17 +7,17 @@
 
 # Upcoming Events
 ## November 18th, 2019
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch - debugging with pdb**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch - debugging with pdb**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/pdb/main.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Max gave an introduction to "the python debugger".
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tim_Mensinger - Causal Trees**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tim introduced us to causal trees.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tobias Stenzel - Uncertainty Quantification in Economics**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Stenzel - Uncertainty Quantification in Economics**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/uncertainty-quantification/hackathon_pres/presentation.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tobias presented about uncertainty quantification.
 
 
 
