@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Stenzel - Uncertainty Quantification in Economics**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/uncertainty-quantification/hackathon_pres/presentation.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tobias presented about uncertainty quantification.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tobias talked about uncertainty quantification.
 
 
 
