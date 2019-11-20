@@ -1,0 +1,14 @@
+figure.figsize: 12, 9
+
+font.size : 20
+
+axes.titlesize : 28
+axes.labelsize: 24
+
+xtick.labelsize : 20
+ytick.labelsize : 20
+
+legend.fontsize: 20
+legend.shadow: False
+
+savefig.dpi: 300
