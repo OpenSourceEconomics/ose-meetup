@@ -12,7 +12,7 @@
 
 # Previous Events
 ## November 18th, 2019
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Max Blesch](https://github.com/MaxBlesch) - [Debugging with pdb*](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/pdb/main.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - [**Debugging with pdb**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/pdb/main.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Max gave an introduction to "the python debugger".
 
