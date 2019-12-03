@@ -16,7 +16,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Max gave an introduction to "the python debugger".
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim_Mensinger - Causal Trees**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/causal_tree/causal_tree_pres.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) - [**Causal trees*](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/causal_tree/causal_tree_pres.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tim introduced us to causal trees.
 
