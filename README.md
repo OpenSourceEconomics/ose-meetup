@@ -14,15 +14,15 @@
 ## November 18th, 2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - [**Debugging with pdb**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/pdb/main.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Max gave an introduction to "the python debugger".
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "The python debugger (pdb)" is the debugger provided by the basic standard python distribution. The presentation contains a short introduction as well as the intructions how to use it together with pytest.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) - [**Causal trees**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/causal_tree/causal_tree_pres.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tim introduced us to causal trees.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Stenzel**](https://github.com/tostenzel) - [**Uncertainty quantification in economics**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/uncertainty-quantification/hackathon_pres/presentation.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Stenzel**](https://github.com/tostenzel) - [**Uncertainty Quantification in economics**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/uncertainty-quantification/hackathon_pres/presentation.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tobias talked about uncertainty quantification.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tobias gives a brief introduction to the general framework and methods of Uncertainty Quantification. It proceeds by conduncting an uncertainty propagation and the computation of first and total order Sobol' Indices for the Ishigami Equation. The Ishigami Equation is used instead of a actual model, because it provides analytic solutation and a short run time. The presentation ends with a short note on polynomial chaos expansions and their python implementation in the chaospy package.
 
 
 
@@ -32,27 +32,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sebastian introduced us to his extension of the [grmpy package](https://grmpy.readthedocs.io/en/latest/).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Alexandros Gilch**] - [**Applications of numerical integration**]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch** - [**Applications of numerical integration**]()
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandros reported on his research about numerical integration.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Radost Holler**](https://github.com/raholler) &  [**Paul Schäfer**]() - [**Working with and Digitizing Geospatial Data**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2019_10_14/Holler-Schaefer/hackathon-pres.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Radost Holler**](https://github.com/raholler) **&**  **Paul Schäfer** - [**Working with and Digitizing Geospatial Data**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2019_10_14/Holler-Schaefer/hackathon-pres.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Radost and Paul talked about their recent research project in which they need to digitize various geospatial data.
 
 
 ## September 12th, 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fedor Iskhakov - JOSEcon**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fedor Iskhakov** - **JOSEcon**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fedor introduced us to the emerging [*Journal of Open Source Economics*](http://josecon.org/) which will publish short papers on reusable
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code and allow computational economists to collect citations for their coding work.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fedor introduced us to the emerging [*Journal of Open Source Economics*](http://josecon.org/) which will publish short papers on reusable code and allow computational economists to collect citations for their coding work.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Raabe & Janos Gabler - *respy* and *estimagic***](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_09_12/estimagic_presentation/estimagic_presentation.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Raabe**](https://github.com/tobiasraabe)**&** [**Janos Gabler**](https://github.com/janosg) - [***respy* and *estimagic***](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_09_12/estimagic_presentation/estimagic_presentation.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos presented on the new developments of the [*estimagic*](https://github.com/OpenSourceEconomics/estimagic) package and its integration in respy.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Boryana Ilieva - Implementing DC-EGM in a structural life-cycle model.**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_09_12/dc-egm_boryana.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Boryana Ilieva**](https://github.com/boryana-ilieva) - [**Implementing DC-EGM in a structural life-cycle model.**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_09_12/dc-egm_boryana.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boryana presented on the new developments of the [*soepy*](https://github.com/OpenSourceEconomics/soepy) package with focus on the integration of DC-EGM.
 
