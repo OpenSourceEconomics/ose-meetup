@@ -16,11 +16,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Max gave an introduction to "the python debugger".
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) - [**Causal trees*](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/causal_tree/causal_tree_pres.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) - [**Causal trees**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/causal_tree/causal_tree_pres.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tim introduced us to causal trees.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Stenzel - Uncertainty Quantification in Economics**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/uncertainty-quantification/hackathon_pres/presentation.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Stenzel**](https://github.com/tostenzel) - [**Uncertainty quantification in economics**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/uncertainty-quantification/hackathon_pres/presentation.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tobias talked about uncertainty quantification.
 
@@ -28,19 +28,15 @@
 
 
 ## October 14th, 2019
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sebastian Gsell:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**grmpy-semipar: A Local Instrumental Variables (LIV) approach to estimating the generalized Roy model**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_10_14/Sebastian_Gsell/hackathon_presentation_final.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Sebastian Gsell**](https://github.com/segsell) - [**A Local Instrumental Variables (LIV) approach to estimating the generalized Roy model**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_10_14/Sebastian_Gsell/hackathon_presentation_final.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sebastian introduced us to his extension of the [grmpy package](https://grmpy.readthedocs.io/en/latest/).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Applications of numerical integration methods to high-dimensional econometric parameter estimation**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Alexandros Gilch**] - [**Applications of numerical integration**]()
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandros reported on his research about numerical integration.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Radost Holler &  Paul Schäfer - Working with and Digitizing Geospatial Data**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Radost Holler**](https://github.com/raholler) &  [**Paul Schäfer**]() - [**Working with and Digitizing Geospatial Data**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2019_10_14/Holler-Schaefer/hackathon-pres.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Radost and Paul talked about their recent research project in which they need to digitize various geospatial data.
 
