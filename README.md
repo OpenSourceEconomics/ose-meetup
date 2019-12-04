@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) - [**Causal trees**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/causal_tree/causal_tree_pres.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tim introduced us to causal trees.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The presentation is about the theory and implementation of Causal Trees. Causal Trees were first presented in Recursive partitioning for heterogeneous causal effects ([Athey and Imbens (2016)](https://www.aeaweb.org/conference/2016/retrieve.php?pdfid=1118)) and can be considered as an extension of Decision Trees to the conditional treatment-effect estimation setting. During the presentation Tim gives a detailed overlook of the algorithm and mathematical properties of the estimator.  At the end Tim presents his naive implementation and performance issues.  Further we briefly talk about potential extensions of Causal Trees to Causal Forests; see [Athey and Wager (2017)](https://www.aeaweb.org/conference/2017/preliminary/paper/a6KnY2Gs).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Stenzel**](https://github.com/tostenzel) - [**Uncertainty Quantification in economics**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/uncertainty-quantification/hackathon_pres/presentation.ipynb)
 
