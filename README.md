@@ -50,7 +50,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Raabe**](https://github.com/tobiasraabe) **&** [**Janos Gabler**](https://github.com/janosg) - [***respy* and *estimagic***](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_09_12/estimagic_presentation/estimagic_presentation.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos presented on the new developments of the [*estimagic*](https://github.com/OpenSourceEconomics/estimagic) package and its integration in respy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobias and Janos presented on the new developments of the [*estimagic*](https://github.com/OpenSourceEconomics/estimagic) package and its integration in respy. In the first half of the talk, Janos used the well-known multinomial probit model to show how estimagic can be used to implement user friendly estimation commands. In the second half, Tobias introduced the general structure of discrete choice dynamic programming models and showed how estimagic can also be used for more complex models.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Boryana Ilieva**](https://github.com/boryana-ilieva) - [**Implementing DC-EGM in a structural life-cycle model.**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_09_12/dc-egm_boryana.pdf)
 
