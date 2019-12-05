@@ -32,7 +32,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sebastian introduced us to his extension of the [grmpy package](https://grmpy.readthedocs.io/en/latest/).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch** - **Applications of numerical integration**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch** - [**Applications of numerical integration**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_10_14/NumApprox-for-EconInt_AlexandrosGilch-20191014.pdf)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandros reported on his research about numerical integration.
 
