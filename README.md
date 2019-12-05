@@ -35,7 +35,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Alexandros Gilch** - [**Applications of numerical integration**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2019_10_14/Gilch/NumApprox-for-EconInt_AlexandrosGilch-20191014.pdf)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandros reported on his research about numerical integration.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandros is investigating the application of advanced numerical quadrature methods to high-dimensional integrals which arise in econometrics. The main focus lies in determining classes of econometric models which require the numerical computation of an integral and linking the corresponding integrands to a function space in the mathematical sense. Knowing in which function space the integrands lie allows us to apply specific quadrature rules that easily outrun the common Monte Carlo- and Quasi Monte Carlo techniques and can achieve an exponential convergence rate. Hence, the computational effort to evaluate this integrals and the complete model could be reduced dramatically allowing for an easier estimation of econometric models.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Radost Holler**](https://github.com/raholler) **&**  **Paul Schäfer** - [**Working with and Digitizing Geospatial Data**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2019_10_14/Holler-Schaefer/hackathon-pres.pdf)
 
