@@ -8,6 +8,7 @@
 # Upcoming Events
 
 ## January 20th, 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No presentations: Start of the year meeting at Cafe Blau
 
 
 # Previous Events
