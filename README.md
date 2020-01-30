@@ -1,6 +1,6 @@
 # OpenSourceEconomics Meetup
 
-[OpenSourceEconomics](http://opensourceeconomics.github.io/) is a platform for discussion between students and academic researchers on issues regarding scientific programming. To this end, we arrange monthly events, referred to as *OSE Meetups*. These meetings provide participants an opportunity to present on and inform themselves about different software solutions, as well as to receive feedback on their current research projects. The events usually take place on the third Monday of every month at 6pm at the Institute of Applied Microeconomics. For further questions, please do not hesitate to join us on [Slack](https://join.slack.com/t/oseconomics/shared_invite/enQtNTg3NjA0ODIwNzM3LWYzZTQ2OWJiMDdhMzdlZDVhZmZkZjZiMDU3YmM3MDBmYWE5OGY3M2UzZDY0YTc4NzM3YzA5ZGMzODUyOTczNDc).
+[OpenSourceEconomics](http://opensourceeconomics.github.io/) is a platform for discussion between students and academic researchers on issues regarding scientific programming. To this end, we arrange monthly events, referred to as *OSE Meetups*. These meetings provide participants an opportunity to present on and inform themselves about different software solutions, as well as to receive feedback on their current research projects. The events usually take place on the third Monday of every month at 6pm at the Institute of Applied Microeconomics. For further questions, please do not hesitate to write us on [Zulip](ose-meetup.ceaa28a5fc5a1de588500a8473c79b68.show-sender@streams.zulipchat.com).
 
 
 
