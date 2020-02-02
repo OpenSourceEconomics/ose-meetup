@@ -7,11 +7,15 @@
 
 # Upcoming Events
 
-## January 20th, 2020
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No presentations: Start of the year meeting at Cafe Blau
+## February 17th, 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - **Robust investments under risk and ambiguity: Harold Zurcher's robust replacement policy**
+
 
 
 # Previous Events
+## January 20th, 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No presentations: Start of the year meeting at Cafe Blau
+
 ## November 18th, 2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - [**Debugging with pdb**](https://github.com/OpenSourceEconomics/hackathon/blob/master/material/2019_11_18/pdb/main.pdf)
 
