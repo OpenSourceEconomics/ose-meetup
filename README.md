@@ -10,7 +10,7 @@
 ## February 17th, 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - **Robust investments under risk and ambiguity: Harold Zurcher's robust replacement policy**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) - **Debugging Strategies**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) - **Real World Debugging Strategies**
 
 
 # Previous Events
