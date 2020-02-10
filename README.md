@@ -10,7 +10,7 @@
 ## February 17th, 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - **Robust investments under risk and ambiguity: Harold Zurcher's robust replacement policy**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch and Jakob Wegmann**](https://github.com/janosg) - **Short Introduction to [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) and a new Course about Financial Policy.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch and [Jakob Wegmann**](https://github.com/JakobWegmann) - **Short Introduction to [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) and a new Course about Financial Policy.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) - **Real World Debugging Strategies**
 
