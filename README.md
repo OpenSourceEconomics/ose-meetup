@@ -7,15 +7,17 @@
 
 # Upcoming Events
 
+
+# Previous Events
+
+
 ## February 17th, 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - **Robust investments under risk and ambiguity: Harold Zurcher's robust replacement policy**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch and [Jakob Wegmann](https://github.com/JakobWegmann)** - **Short Introduction to [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) and a new Course about Financial Policy.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) - **Real World Debugging Strategies**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) - [**Real World Debugging Strategies**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2020_02_17/debugging_presentation.pdf)
 
-
-# Previous Events
 ## January 20th, 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No presentations: Start of the year meeting at Cafe Blau
 
