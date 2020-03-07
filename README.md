@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) - [**Real World Debugging Strategies**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2020_02_17/debugging_presentation.pdf)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Most introductions to debugging teach unrealistic workflows with the aim of avoiding debugging altogether and then present some debugging tricks under the assumption that you followed the workflow religiously. Janos stared by outlining a pragmatic workflow aimed at reducing bugs without unrealistic assumptions on developer's discipline. He then introduced pdb++ and a set of debugging strategies that work even if developers did not follow the proposed workflow.
+
 ## January 20th, 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No presentations: Start of the year meeting at Cafe Blau
 
