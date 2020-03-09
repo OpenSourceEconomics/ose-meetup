@@ -12,7 +12,9 @@
 
 
 ## February 17th, 2020
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - **Robust investments under risk and ambiguity: Harold Zurcher's robust replacement policy**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - [**Robust investments under risk and ambiguity: Harold Zurcher's robust replacement policy**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2020_02_17/robust_investments.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We incorporate techniques from distributionally robust optimization into a dynamic investment model. This allows us to explicitly account for ambiguity in the decision making process. We revisit the seminal bus replacement problem (Rust, 1987) under potential model misspecification. We specify ambiguity sets for the transition dynamics of the model and analyze alternative policies in a series of computational experiments. We find that, given the structure of the model and the available data on past transitions, a policy simply ignoring model misspecification often outperforms its alternatives that are designed to explicitly account for it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch and [Jakob Wegmann](https://github.com/JakobWegmann)** - **Short Introduction to [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) and a new Course about Financial Policy.**
 
