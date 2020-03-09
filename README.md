@@ -18,6 +18,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch and [Jakob Wegmann](https://github.com/JakobWegmann)** - **Short Introduction to [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) and a new Course about Financial Policy.**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GETTSIM provides a depiction of the German Taxes and Transfers System that will be usable in a wide array of research applications, ranging from highly complex dynamic programming models to extremely detailed microsimulation studies. GETTSIM is implemented in Python, thereby achieving both user friendliness and flexibility.
+
+The second part of the talk was on the new course in Financial and Social Policy. It is offered to Bachelor's students at Bonn University. The course supports students in deepening their understanding of various German policy issues. Students will learn to analyze policy implications in a quantitative manner through various case studies and work with GETTSIM for their analyses.
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) - [**Real World Debugging Strategies**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2020_02_17/debugging_presentation.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Most introductions to debugging teach unrealistic workflows with the aim of avoiding debugging altogether and then present some debugging tricks under the assumption that you followed the workflow religiously. Janos stared by outlining a pragmatic workflow aimed at reducing bugs without unrealistic assumptions on developer's discipline. He then introduced pdb++ and a set of debugging strategies that work even if developers did not follow the proposed workflow.
@@ -180,7 +186,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - [**Experiences obtained by newest changes on *ruspy***](https://github.com/OpenSourceEconomics/hackathon_material/tree/master/material/2019_01_30)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max reported on his experiences of implementing [*numba*](http://numba.pydata.org/) for improving the performance of the [*ruspy*](https://github.com/OpenSourceEconomics/ruspy) package. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max reported on his experiences of implementing [*numba*](http://numba.pydata.org/) for improving the performance of the [*ruspy*](https://github.com/OpenSourceEconomics/ruspy) package.
 
 ## December 19th, 2018
 
