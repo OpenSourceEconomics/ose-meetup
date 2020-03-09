@@ -16,11 +16,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We incorporate techniques from distributionally robust optimization into a dynamic investment model. This allows us to explicitly account for ambiguity in the decision making process. We revisit the seminal bus replacement problem (Rust, 1987) under potential model misspecification. We specify ambiguity sets for the transition dynamics of the model and analyze alternative policies in a series of computational experiments. We find that, given the structure of the model and the available data on past transitions, a policy simply ignoring model misspecification often outperforms its alternatives that are designed to explicitly account for it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Max Blesch and [Jakob Wegmann](https://github.com/JakobWegmann)** - **Short Introduction to [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) and a new Course about Financial Policy.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) **&** [**Jakob Wegmann**](https://github.com/JakobWegmann)** - **Short Introduction to [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) and a new Course about Financial Policy.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GETTSIM provides a depiction of the German Taxes and Transfers System that will be usable in a wide array of research applications, ranging from highly complex dynamic programming models to extremely detailed microsimulation studies. GETTSIM is implemented in Python, thereby achieving both user friendliness and flexibility.
 
-The second part of the talk was on the new course in Financial and Social Policy. It is offered to Bachelor's students at Bonn University. The course supports students in deepening their understanding of various German policy issues. Students will learn to analyze policy implications in a quantitative manner through various case studies and work with GETTSIM for their analyses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The second part of the talk was on the new course in Financial and Social Policy. It is offered to Bachelor's students at Bonn University. The course supports students in deepening their understanding of various German policy issues. Students will learn to analyze policy implications in a quantitative manner through various case studies and work with GETTSIM for their analyses.
 
 
 
