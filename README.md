@@ -7,8 +7,15 @@
 
 # Upcoming Events
 
+## Mai 18th, 2020 
+**TBA**
 
 # Previous Events
+
+## March 18th, 2020 ("the informal Corona-meetup")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Hans-Martin von Gaudecker**](https://www.iame.uni-bonn.de/people/hm-gaudecker) - [**CoVid-19 Impact Lab**](https://covid-19-impact-lab.iza.org/en/app)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Raabe**](https://github.com/tobiasraabe) - [dag_gettsim](https://github.com/janosg/dag_gettsim)
 
 
 ## February 17th, 2020
