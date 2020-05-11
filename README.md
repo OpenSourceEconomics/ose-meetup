@@ -8,7 +8,13 @@
 # Upcoming Events
 
 ## Mai 18th, 2020 
-**TBA**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Gregor Boehl**](https://gregorboehl.com) - **An overview of my work and** [**packages**](https://github.com/gboehl)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Annica Gehlen**](https://github.com/amageh) - **Method of Simulated Moments Estimation with** [**respy**](https://github.com/OpenSourceEconomics/respy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**TBA**](https://github.com/OpenSourceEconomics/ose-meetup/edit/master/README.md) - - **An Update on the** [**CoVid-19 Impact Lab**](https://covid-19-impact-lab.iza.org/en/app)
+
 
 # Previous Events
 
