@@ -7,9 +7,6 @@ For any questions, please do not hesitate to contact us via [Zulip](https://zuli
 
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://ose.zulipchat.com)
 
-
-# Upcoming Events
-
 ## Mai 18th, 2020 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Gregor Boehl**](https://gregorboehl.com) - **An overview of my work and** [**packages**](https://github.com/gboehl)
