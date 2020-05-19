@@ -11,10 +11,15 @@ For any questions, please do not hesitate to contact us via [Zulip](https://zuli
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Gregor Boehl**](https://gregorboehl.com) - **An overview of my work and** [**packages**](https://github.com/gboehl)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gregor's work focusses on the computational challenges related to the structural-empirical analisis using nonlinear DSGE models featuring occasionally binding constraints. He gives a very brief overview on the solution technique, nonlinear Bayesian filtering, and Bayesian estimation. He also scratches on complicated or chaotic nonlinear dynamics. He then gives a short introduction into his packages `pydsge`, `econsieve` and `macro_puzzles`.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Annica Gehlen**](https://github.com/amageh) - **Method of Simulated Moments Estimation with** [**respy**](https://github.com/OpenSourceEconomics/respy)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**TBA**](https://github.com/OpenSourceEconomics/ose-meetup/edit/master/README.md) - - **An Update on the** [**CoVid-19 Impact Lab**](https://covid-19-impact-lab.iza.org/en/app)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Annica gives a brief overview of respy and its method of simulated moments interface which has recently been added to extend respy's estimation capabilities. As the estimation of structural econometric models is usually a challenging endeavor that requires several calibration choices, the talk also included the presentation of a brief estimation exercise that can be used to assess one's estimation setup.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Hans-Martin von Gaudecker**](https://www.iame.uni-bonn.de/people/hm-gaudecker) - **An Update on the** [**CoVid-19 Impact Lab**](https://covid-19-impact-lab.iza.org/en/app)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The talk gives a summary on the activities related to the CoVid-19 Impact Lab in the last two months. First results are presented. Hans-Martin discusses the difficulties related to managing large project were groups of people are involved that have a different computational background. He concludes that dis-respecting programming standards for short-term speed gains never pays off in the longer run.
 
 # Previous Events
 
