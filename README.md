@@ -15,19 +15,13 @@ For any questions, please do not hesitate to contact us via [Zulip](https://zuli
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Annica Gehlen**](https://github.com/amageh) - **Method of Simulated Moments Estimation with** [**respy**](https://github.com/OpenSourceEconomics/respy)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Annica gives a brief overview of respy and its method of simulated moments interface which has recently been added to extend respy's estimation capabilities. As the estimation of structural econometric models is usually a challenging endeavor that requires several calibration choices, the talk also included the presentation of a brief estimation exercise that can be used to assess one's estimation setup.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Annica gives a brief overview of `respy` and its method of simulated moments interface which has recently been added to extend `respy`'s estimation capabilities. As the estimation of structural econometric models is usually a challenging endeavor that requires several calibration choices, the talk also included the presentation of a brief estimation exercise that can be used to assess one's estimation setup.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Hans-Martin von Gaudecker**](https://www.iame.uni-bonn.de/people/hm-gaudecker) - **An Update on the** [**CoVid-19 Impact Lab**](https://covid-19-impact-lab.iza.org/en/app)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The talk gives a summary on the activities related to the CoVid-19 Impact Lab in the last two months. First results are presented. Hans-Martin discusses the difficulties related to managing large project were groups of people are involved that have a different computational background. He concludes that dis-respecting programming standards for short-term speed gains never pays off in the longer run.
 
 # Previous Events
-
-## March 18th, 2020 ("the informal Corona-meetup")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Hans-Martin von Gaudecker**](https://www.iame.uni-bonn.de/people/hm-gaudecker) - [**CoVid-19 Impact Lab**](https://covid-19-impact-lab.iza.org/en/app)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tobias Raabe**](https://github.com/tobiasraabe) - [dag_gettsim](https://github.com/janosg/dag_gettsim)
-
 
 ## February 17th, 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - [**Robust investments under risk and ambiguity: Harold Zurcher's robust replacement policy**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2020_02_17/robust_investments.pdf)
