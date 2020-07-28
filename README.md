@@ -7,6 +7,21 @@ For any questions, please do not hesitate to contact us via [Zulip](https://zuli
 
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://ose.zulipchat.com)
 
+
+# Previous Events
+
+## July 20th, 2020 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Pablo Winant**](https://gregorboehl.com) - **Solving infinite horizon models with dolo and dolang**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pablo presents two python/julia based packages: 
+[dolo](https://dolo.readthedocs.io) is a tool to describe and solve economic models. It provides a simple classification scheme to describe models as simple text files and compiles these files into efficient Python objects representing them. It also provides many reference solution algorithms to find the solution of these models under rational expectations: local perturbations up to third order, perfect foresight solution, policy iteration, value iteration. [dolang](https://github.com/EconForge/Dolang.jl) is the modeling language used by `dolo`, providing a simple interface similar to `dynare` to express models.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/amageh) - **An intruduction to the i3 linux desktop environment**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i3 is a tiling window manager which targets users of GNU/Linux and BSD operating systems. i3 is primarily targeted at advanced users and developers which allows an efficient, mouse-free work flow. Tim presents the advantages and disadvantages of the desktop environment.
+
+
 ## Mai 18th, 2020 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Gregor Boehl**](https://gregorboehl.com) - **An overview of my work and** [**packages**](https://github.com/gboehl)
@@ -21,7 +36,6 @@ For any questions, please do not hesitate to contact us via [Zulip](https://zuli
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The talk gives a summary on the activities related to the CoVid-19 Impact Lab in the last two months. First results are presented. Hans-Martin discusses the difficulties related to managing large project were groups of people are involved that have a different computational background. He concludes that dis-respecting programming standards for short-term speed gains never pays off in the longer run.
 
-# Previous Events
 
 ## February 17th, 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Max Blesch**](https://github.com/MaxBlesch) - [**Robust investments under risk and ambiguity: Harold Zurcher's robust replacement policy**](https://github.com/OpenSourceEconomics/ose-meetup/blob/master/material/2020_02_17/robust_investments.pdf)
