@@ -1,4 +1,4 @@
-.. |logo| image:: https://avatars3.githubusercontent.com/u/37739145?s=60&v=4
+.. |logo| image:: material/logo/ose_logo.png
    :height: 20px
 
 |logo| ose-meetup 
