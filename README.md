@@ -10,7 +10,7 @@ For any questions, please do not hesitate to contact us via [Zulip](https://zuli
 
 # Next Event
 
-## November 9th, 2020 
+## November 10th, 2020 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Yannik Schaelte**](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/6388/-Sch%C3%A4lte/index.html) - **Likelihood-free Bayesian inference and [pyABC](https://pyabc.readthedocs.io/en/latest/)**
 
