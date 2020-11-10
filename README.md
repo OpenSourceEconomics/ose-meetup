@@ -8,16 +8,24 @@ For any questions, please do not hesitate to contact us via [Zulip](https://zuli
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://ose.zulipchat.com)
 
 
-# Next Event
+# Previous Events
 
 ## November 10th, 2020 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Yannik Schaelte**](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/6388/-Sch%C3%A4lte/index.html) - **Likelihood-free Bayesian inference and [pyABC](https://pyabc.readthedocs.io/en/latest/)**
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approximate Bayesian Computation can be used for statistical inference 
+when it is no longer feasible to evaluate a likelihood -- frequently the 
+case for complex, stochastic models. While widely applicable, it is 
+computationally quite expensive. The python-based tool pyABC provides an 
+efficient, scalable implementation, which is in use in a variety of 
+research areas.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) - **Derivative-free optimization in Python**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Janos gives a short general introduction into the problem of local and global optimization of functions of which the derivative is not trivial to evaluate. He then presents different methods of how to tackle this problem.
 
-# Previous Events
 
 ## July 20th, 2020 
 
