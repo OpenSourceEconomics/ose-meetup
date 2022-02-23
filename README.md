@@ -1,14 +1,62 @@
 # <img src="https://avatars3.githubusercontent.com/u/37739145?s=60&v=4" width="23" /> ose-meetup
 
 
-[OpenSourceEconomics](http://opensourceeconomics.github.io/) is a platform for discussion between students and academic researchers on issues regarding scientific programming. To this end, we arrange monthly events, referred to as *OSE Meetups*. These meetings provide participants an opportunity to present on and inform themselves about different software solutions, as well as to receive feedback on their current research projects. The events usually take place on the third Monday of every month at 6pm at the Institute of Applied Microeconomics. 
+[OpenSourceEconomics](http://opensourceeconomics.github.io/) is a platform for
+discussion between students and academic researchers on issues regarding scientific
+programming. To this end, we arrange bi-monthly events, referred to as *OSE Meetups*.
+These meetings provide participants an opportunity to present on and inform themselves
+about different software solutions, as well as to receive feedback on their current
+research projects.
 
-For any questions, please do not hesitate to contact us via [Zulip](https://zulip.com/). Simply clicking the button below will take you to the proper **#ose-meetup** stream. There we will also post the details on how to participate in each (online) event.
+For any questions, please do not hesitate to contact us via Zulip by clicking the
+**join chat** button:
 
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://ose.zulipchat.com)
 
 
 # Previous Events
+*Slides are available on request*
+
+
+## February 23rd, 2022
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian
+Zimpelmann**](https://github.com/ChristianZimpelmann) -
+**GETTSIM - Writing code for policy advice and high-performance research applications**
+
+Details: TBA
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) -
+**Creating Python packages during your first year, and all the things that can go wrong**
+
+Tim talks about the development process of a small Python package used to randomly
+assign people into groups. The talk focuses on everything that went wrong and my
+interaction with the user base.
+
+
+## November 18th, 2021
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Janos Gabler**](https://github.com/janosg) -
+**Whats new in estimagic**
+
+Janos is going to talk about new and vastly improved features of estimagic. Particular
+topics are benchmarking optimizers, running multistart optimizations, and calculating
+standard errors and sensitivity measures for statistical models.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Manuel Huth**](https://github.com/manuhuth) -
+**SIRD models for an efficient vaccine allocation across countries**
+
+Manuel addresses the question of how countries can efficiently allocate vaccines in
+times of a pandemic. He does this by developing SIRD models and applying them in an
+optimal control framework. The talk focuses on the computational implementation and also
+gives a brief introduction to the Python libraries amici and libsbml, which are used to
+solve ODEs and for handling the SBML model.
+
+
+> ## December 2020 - October 2021
+> Corona Break
+
 
 ## November 10th, 2020 
 
