@@ -15,22 +15,25 @@ For any questions, please do not hesitate to contact us via Zulip by clicking th
 
 
 # Previous Events
-*Slides are available on request*
+*Slides that are not found in the folder ``material`` are available upon request*
 
 
 ## February 23rd, 2022
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian
 Zimpelmann**](https://github.com/ChristianZimpelmann) -
-**GETTSIM - Writing code for policy advice and high-performance research applications**
+**GETTSIM: Writing code for policy advice and high-performance research applications**
 
-Details: TBA
+Christian presents the GETTSIM package which provides a depiction of the German Taxes
+and Transfers System. He focuses on problems that arose during the development and how
+they were fixed using state-of-the-art methods from software engineering.
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) -
 **Creating Python packages during your first year, and all the things that can go wrong**
 
 Tim talks about the development process of a small Python package used to randomly
-assign people into groups. The talk focuses on everything that went wrong and my
+assign people into groups. The talk focuses on everything that went wrong and his
 interaction with the user base.
 
 
@@ -53,9 +56,12 @@ optimal control framework. The talk focuses on the computational implementation 
 gives a brief introduction to the Python libraries amici and libsbml, which are used to
 solve ODEs and for handling the SBML model.
 
+-----------
 
 > ## December 2020 - October 2021
 > Corona Break
+
+-----------
 
 
 ## November 10th, 2020 
