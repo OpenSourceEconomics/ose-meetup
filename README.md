@@ -17,6 +17,14 @@ For any questions, please do not hesitate to contact us via Zulip by clicking th
 # Previous Events
 *Slides that are not found in the folder ``material`` are available upon request*
 
+## March 9th, 2023
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) -
+[**Terminal Aesthetics: How Beautiful Prompts Can Boost Your Productivity**](http://htmlpreview.github.io/?https://github.com/OpenSourceEconomics/ose-meetup/blob/main/material/2023_03_09/tim.html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Hans-Martin von Gaudecker**](https://github.com/hmgaudecker) -
+**Markdown slides / papers / course materials: How I learned to stop worrying about formatting and focused on the text**
+
 
 ## February 23rd, 2022
 
