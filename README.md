@@ -20,11 +20,27 @@ For any questions, please do not hesitate to contact us via Zulip by clicking th
 ## March 9th, 2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) -
-[**Terminal Aesthetics: How Beautiful Prompts Can Boost Your Productivity**](http://htmlpreview.github.io/?https://github.com/OpenSourceEconomics/ose-meetup/blob/main/material/2023_03_09/tim.html)
+**Terminal Aesthetics: How Beautiful Prompts Can Boost Your Productivity**
+
+Tim explains how customizing the terminal can benefit programmers by increasing development speed and displaying relevant information. He shares his own setup and provides a few examples.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Hans-Martin von Gaudecker**](https://github.com/hmgaudecker) -
 **Markdown slides / papers / course materials: How I learned to stop worrying about formatting and focused on the text**
 
+Hans-Martin talks about markdown based alternatives to Latex for slides and research
+papers. He focuses on slidev for presentations and executablebooks for documents. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Christian Zimpelmann**](https://github.com/ChristianZimpelmann) -
+**Gender Norms and Couples' Labor Supply**
+
+Christians presents a structural discrete choice dynamic programming model to understand the impact of gender norms on couples' labor supply decisions when they have their first child.
+
+---
+
+> ## March 2022 - September 2022
+> OSE meets industry
+
+---
 
 ## February 23rd, 2022
 
@@ -96,7 +112,7 @@ research areas.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pablo presents two python/julia based packages: 
 [dolo](https://dolo.readthedocs.io) is a tool to describe and solve economic models. It provides a simple classification scheme to describe models as simple text files and compiles these files into efficient Python objects representing them. It also provides many reference solution algorithms to find the solution of these models under rational expectations: local perturbations up to third order, perfect foresight solution, policy iteration, value iteration. [dolang](https://github.com/EconForge/Dolang.jl) is the modeling language used by `dolo`, providing a simple interface similar to `dynare` to express models.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) - **An intruduction to the i3 linux desktop environment**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Tim Mensinger**](https://github.com/timmens) - **An introduction to the i3 linux desktop environment**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i3 is a tiling window manager which targets users of GNU/Linux and BSD operating systems. i3 is primarily targeted at advanced users and developers which allows an efficient, mouse-free work flow. Tim presents the advantages and disadvantages of the desktop environment.
 
